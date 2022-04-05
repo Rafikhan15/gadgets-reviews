@@ -1,6 +1,6 @@
 # Assignment Project Name: Gadgets Reviews
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with (https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
