@@ -1,6 +1,6 @@
 # Assignment Project Name: Gadgets Reviews
 
-This project Netlify Live Website Link: (https://github.com/facebook/create-react-app).
+This project Netlify Live Website Link: (https://resonant-concha-c9ed4f.netlify.app/).
 
 # React Routing with project Gadgets Reviews develop info
 
