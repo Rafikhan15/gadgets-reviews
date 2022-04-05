@@ -2,9 +2,12 @@
 
 This project Netlify Live Website Link: (https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# React Routing with project Gadgets Reviews develop info
 
-In the project directory, you can run:
+- At first install React Router  
+- Second install css tailwind
+- Third create a component file to create many componet file
+- Four design and develop the full website
 
 ### `npm start`
 
