@@ -2,7 +2,7 @@
 
 This project Netlify Live Website Link: (https://resonant-concha-c9ed4f.netlify.app/).
 
-# React Routing with Gadgets Reviews project develop info
+# React Routing with Gadgets Reviews project development info
 
 - At first install React Router  
 - Second install css tailwind
