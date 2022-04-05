@@ -4,7 +4,7 @@ This project Netlify Live Website Link: (https://resonant-concha-c9ed4f.netlify.
 
 # React Routing with Gadgets Reviews project development info
 
-- At first install React Router  
+- At first install React Router and Recharts  
 - Second install css tailwind
 - Third create a component file to create many componet file
 - Four design and develop the full website
